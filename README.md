@@ -10,6 +10,6 @@ Projeto de site educacional desenvolvido para o trabalho final da disciplina de 
   - Trocar imagem
   - Confirmar envio de formulário
 
-## Aluno
-- Nome: Fernanda Lobato, Marcelo Henrique e Maria Alice.
+## Alunos
+- Nomes: Fernanda Lobato, Marcelo Henrique e Maria Alice.
 
